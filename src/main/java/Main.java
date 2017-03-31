@@ -1,13 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package pc2project;
 
 /**
  *
- * @author 91025973
+ * @author samWson@users.noreply.github.com
  */
 public class Main {
 
